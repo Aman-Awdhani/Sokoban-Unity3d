@@ -1,4 +1,4 @@
-# Sokoban Game Unity 2D implementation by [Artemis Georgakopoulou](https://github.com/Misarte)
+# Sokoban Game Unity
 
 ## Description
 
